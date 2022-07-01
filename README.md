@@ -9,4 +9,4 @@
 
 只测试了单机bot版本，在线模式并未测试
 
-![image](https://user-images.githubusercontent.com/54528506/176860873-46e0ff0c-9215-4455-93ab-00d46c456eb0.png)
+![image](https://user-images.githubusercontent.com/54528506/176861846-63dcb43f-0be8-4e73-bd87-2cd4df6b9dab.png)
